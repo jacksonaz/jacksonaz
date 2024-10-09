@@ -1,4 +1,4 @@
-- 👋 Hi, you can call me @jacksonaz.
+- 👋 Hi, you can call me @jacksonoz.
 - 👀 I’m interested in artificial intelligence and website design.
 - 🌱 The programming languages I work with are C++, Java, JavaScript, Python, and Go.
 - 💞️ I’m looking to collaborate on ...
